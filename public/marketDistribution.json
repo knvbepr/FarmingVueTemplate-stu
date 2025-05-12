@@ -1,0 +1,82 @@
+[
+   {
+    "id": 1,
+    "name": "推广省份",
+    "value": 15,
+    "unity": "个",
+    "code": "promotionProvince",
+    "status": true
+  },
+  {
+    "id": 2,
+    "name": "应用省份",
+    "value": 5,
+    "unity": "个",
+    "code": "applicationProvince",
+    "status": true
+  },
+  {
+    "id": 3,
+    "name": "计划拓展",
+    "value": 20,
+    "unity": "个",
+    "code": "plannedExpansion",
+    "status": true
+  },
+  {
+    "id": 4,
+    "name": "累计效益",
+    "value": "1.2亿",
+    "unity": "元",
+    "code": "cumulativeBenefit",
+    "status": true
+  },
+  {
+    "id": 5,
+    "name": "同比增产",
+    "value": 30,
+    "unity": "%",
+    "code": "year-on-yearIncrease",
+    "status": true
+  },
+  {
+    "id": 6,
+    "name": "农村人口数",
+    "value": 8337376,
+    "unity": "人",
+    "code": "ruralPopulation",
+    "status": true
+  },
+  {
+    "id": 7,
+    "name": "人均可支配收入",
+    "value": "2.27万",
+    "unity": "元",
+    "code": "disposableIncome",
+    "status": true
+  },
+  {
+    "id": 8,
+    "name": "项目数量",
+    "value": 730,
+    "unity": "个",
+    "code": "numberOfProject",
+    "status": true
+  },
+  {
+    "id": 9,
+    "name": "乡村振兴示范带",
+    "value": 35,
+    "unity": "个",
+    "code": "ruralVitalizationDemonstrationZone",
+    "status": true
+  },
+  {
+    "id": 10,
+    "name": "实际建设数量",
+    "value": 26,
+    "unity": "个",
+    "code": "actualConstructionQuantity",
+    "status": true
+  }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "投产品种",
+        "value": 30,
+        "unity": "个",
+        "code": "Pro1st",
+        "status": true
+    },
+    {
+        "id": 2,
+        "name": "在研品种",
+        "value": 10,
+        "unity": "个",
+        "code": "Pro2nd",
+        "status": true
+    },
+    {
+        "id": 3,
+        "name": "改良品种",
+        "value": 23,
+        "unity": "个",
+        "code": "Pro3rd",
+        "status": true
+    },
+    {
+        "id": 4,
+        "name": "研发投入",
+        "value": 500,
+        "unity": "万元",
+        "code": "researchInput",
+        "status": true
+    },
+    {
+        "id": 5,
+        "name": "国家专利",
+        "value": 45,
+        "unity": "个",
+        "code": "nationalPatent",
+        "status": true
+    },
+    {
+        "id": 6,
+        "name": "农科站点",
+        "value": 16,
+        "unity": "个",
+        "code": "agriculturalStation",
+        "status": true
+    },
+    {
+        "id": 7,
+        "name": "国家奖项",
+        "value": 20,
+        "unity": "项",
+        "code": "nationalAward",
+        "status":true
+    },
+    {
+        "id": 8,
+        "name": "科研团队",
+        "value": 12,
+        "unity": "支",
+        "code": "researchTeam",
+        "status": true
+    },
+    {
+        "id": 9,
+        "name": "合作院校",
+        "value": 15,
+        "unity": "个",
+        "code": "partnerInstitution",
+        "status": true
+    }
+]

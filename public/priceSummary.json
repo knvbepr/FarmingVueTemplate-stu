@@ -1,0 +1,707 @@
+{
+  "list": [
+    
+      {
+        "id": 1,
+        "productCategory": "水果类",
+        "productName": "山楂",
+        "dateOfRelease": "2023/3/9",
+        "max": 16,
+        "average": 14,
+        "units": "元/公斤",
+        "amount": 500
+      },
+      {
+        "id": 2,
+        "productCategory": "水果类",
+        "productName": "人参果",
+        "dateOfRelease": "2023/3/9",
+        "max": 26,
+        "average": 24,
+        "units": "元/公斤",
+        "amount": 500
+      },
+      {
+        "id": 3,
+        "productCategory": "水果类",
+        "productName": "石榴",
+        "dateOfRelease": "2023/3/9",
+        "max": 16,
+        "average": 15,
+        "units": "元/公斤",
+        "amount": 500
+      },
+      {
+        "id": 4,
+        "productCategory": "水果类",
+        "productName": "柠檬",
+        "dateOfRelease": "2023/3/9",
+        "max": 12,
+        "average": 11,
+        "units": "元/公斤",
+        "amount": 1000
+      },
+      {
+        "id": 5,
+        "productCategory": "水果类",
+        "productName": "榴莲",
+        "dateOfRelease": "2023/3/9",
+        "max": 84,
+        "average": 80,
+        "units": "元/公斤",
+        "amount": 500
+      },
+      {
+        "id": 6,
+        "productCategory": "水果类",
+        "productName": "椰子",
+        "dateOfRelease": "2023/3/9",
+        "max": 12,
+        "average": 11,
+        "units": "元/公斤",
+        "amount": 200
+      },
+      {
+        "id": 7,
+        "productCategory": "水果类",
+        "productName": "甘蔗",
+        "dateOfRelease": "2023/3/9",
+        "max": 4.4,
+        "average": 4,
+        "units": "元/公斤",
+        "amount": 200
+      },
+      {
+        "id": 8,
+        "productCategory": "水果类",
+        "productName": "山竹",
+        "dateOfRelease": "2023/3/9",
+        "max": 70,
+        "average": 66,
+        "units": "元/公斤",
+        "amount": 1000
+      },
+      {
+        "id": 9,
+        "productCategory": "水果类",
+        "productName": "火龙果",
+        "dateOfRelease": "2023/3/9",
+        "max": 12,
+        "average": 11,
+        "units": "元/公斤",
+        "amount": 2000
+      },
+      {
+        "id": 10,
+        "productCategory": "水果类",
+        "productName": "芒果",
+        "dateOfRelease": "2023/3/9",
+        "max": 20,
+        "average": 16,
+        "units": "元/公斤",
+        "amount": 2000
+      },
+      {
+        "id": 11,
+        "productCategory": "水果类",
+        "productName": "荔枝",
+        "dateOfRelease": "2023/3/9",
+        "max": 120,
+        "average": 110,
+        "units": "元/公斤",
+        "amount": 800
+      },
+      {
+        "id": 12,
+        "productCategory": "水果类",
+        "productName": "樱桃",
+        "dateOfRelease": "2023/3/9",
+        "max": 360,
+        "average": 130,
+        "units": "元/公斤",
+        "amount": 1500
+      },
+      {
+        "id": 13,
+        "productCategory": "水果类",
+        "productName": "进口桂圆",
+        "dateOfRelease": "2023/3/9",
+        "max": 26,
+        "average": 24,
+        "units": "元/公斤",
+        "amount": 1000
+      },
+      {
+        "id": 14,
+        "productCategory": "水果类",
+        "productName": "菠萝",
+        "dateOfRelease": "2023/3/9",
+        "max": 6,
+        "average": 5.4,
+        "units": "元/公斤",
+        "amount": 1500
+      },
+      {
+        "id": 15,
+        "productCategory": "水果类",
+        "productName": "草莓",
+        "dateOfRelease": "2023/3/9",
+        "max": 36,
+        "average": 35,
+        "units": "元/公斤",
+        "amount": 1200
+      },
+      {
+        "id": 16,
+        "productCategory": "水果类",
+        "productName": "进口香蕉",
+        "dateOfRelease": "2023/3/9",
+        "max": 9,
+        "average": 8.4,
+        "units": "元/公斤",
+        "amount": 3000
+      },
+      {
+        "id": 17,
+        "productCategory": "水果类",
+        "productName": "国产香蕉",
+        "dateOfRelease": "2023/3/9",
+        "max": 8,
+        "average": 7,
+        "units": "元/公斤",
+        "amount": 5200
+      },
+      {
+        "id": 18,
+        "productCategory": "水果类",
+        "productName": "李子",
+        "dateOfRelease": "2023/3/9",
+        "max": 50,
+        "average": 48,
+        "units": "元/公斤",
+        "amount": 1200
+      },
+      {
+        "id": 19,
+        "productCategory": "水果类",
+        "productName": "红西柚",
+        "dateOfRelease": "2023/3/9",
+        "max": 16,
+        "average": 14,
+        "units": "元/公斤",
+        "amount": 1200
+      },
+      {
+        "id": 20,
+        "productCategory": "水果类",
+        "productName": "金桔",
+        "dateOfRelease": "2023/3/9",
+        "max": 16,
+        "average": 14,
+        "units": "元/公斤",
+        "amount": 1500
+      },
+      {
+        "id": 21,
+        "productCategory": "水果类",
+        "productName": "澳橙",
+        "dateOfRelease": "2023/3/9",
+        "max": 28,
+        "average": 26,
+        "units": "元/公斤",
+        "amount": 1200
+      },
+      {
+        "id": 22,
+        "productCategory": "水果类",
+        "productName": "脐橙",
+        "dateOfRelease": "2023/3/9",
+        "max": 28,
+        "average": 26,
+        "units": "元/公斤",
+        "amount": 5000
+      },
+      {
+        "id": 23,
+        "productCategory": "水果类",
+        "productName": "杨桃",
+        "dateOfRelease": "2023/3/9",
+        "max": 30,
+        "average": 27,
+        "units": "元/公斤",
+        "amount": 500
+      },
+      {
+        "id": 24,
+        "productCategory": "水果类",
+        "productName": "油桃",
+        "dateOfRelease": "2023/3/9",
+        "max": 36,
+        "average": 30,
+        "units": "元/公斤",
+        "amount": 1000
+      },
+      {
+        "id": 25,
+        "productCategory": "水果类",
+        "productName": "猕猴桃",
+        "dateOfRelease": "2023/3/9",
+        "max": 16,
+        "average": 12,
+        "units": "元/公斤",
+        "amount": 1500
+      },
+      {
+        "id": 26,
+        "productCategory": "水果类",
+        "productName": "木瓜",
+        "dateOfRelease": "2023/3/9",
+        "max": 16,
+        "average": 14,
+        "units": "元/公斤",
+        "amount": 1000
+      },
+      {
+        "id": 27,
+        "productCategory": "水果类",
+        "productName": "伊丽莎白瓜",
+        "dateOfRelease": "2023/3/9",
+        "max": 12,
+        "average": 11,
+        "units": "元/公斤",
+        "amount": 300
+      },
+      {
+        "id": 28,
+        "productCategory": "水果类",
+        "productName": "网纹瓜",
+        "dateOfRelease": "2023/3/9",
+        "max": 30,
+        "average": 28,
+        "units": "元/公斤",
+        "amount": 1000
+      },
+      {
+        "id": 29,
+        "productCategory": "水果类",
+        "productName": "哈蜜瓜",
+        "dateOfRelease": "2023/3/9",
+        "max": 13,
+        "average": 12,
+        "units": "元/公斤",
+        "amount": 1000
+      },
+      {
+        "id": 30,
+        "productCategory": "水果类",
+        "productName": "小西瓜",
+        "dateOfRelease": "2023/3/9",
+        "max": 8,
+        "average": 7.4,
+        "units": "元/公斤",
+        "amount": 2000
+      },
+      {
+        "id": 31,
+        "productCategory": "水果类",
+        "productName": "无籽西瓜",
+        "dateOfRelease": "2023/3/9",
+        "max": 10,
+        "average": 9,
+        "units": "元/公斤",
+        "amount": 3200
+      },
+      {
+        "id": 32,
+        "productCategory": "水果类",
+        "productName": "西瓜",
+        "dateOfRelease": "2023/3/9",
+        "max": 9,
+        "average": 8.4,
+        "units": "元/公斤",
+        "amount": 3000
+      },
+      {
+        "id": 33,
+        "productCategory": "水果类",
+        "productName": "黑提子",
+        "dateOfRelease": "2023/3/9",
+        "max": 40,
+        "average": 37,
+        "units": "元/公斤",
+        "amount": 500
+      },
+      {
+        "id": 34,
+        "productCategory": "水果类",
+        "productName": "红提子",
+        "dateOfRelease": "2023/3/9",
+        "max": 28,
+        "average": 26,
+        "units": "元/公斤",
+        "amount": 500
+      },
+      {
+        "id": 35,
+        "productCategory": "水果类",
+        "productName": "青提子",
+        "dateOfRelease": "2023/3/9",
+        "max": 36,
+        "average": 34,
+        "units": "元/公斤",
+        "amount": 1000
+      },
+      {
+        "id": 36,
+        "productCategory": "水果类",
+        "productName": "玫瑰香葡萄",
+        "dateOfRelease": "2023/3/9",
+        "max": 70,
+        "average": 68,
+        "units": "元/公斤",
+        "amount": 1200
+      },
+      {
+        "id": 37,
+        "productCategory": "水果类",
+        "productName": "库尔勒香梨",
+        "dateOfRelease": "2023/3/9",
+        "max": 18,
+        "average": 16,
+        "units": "元/公斤",
+        "amount": 1500
+      },
+      {
+        "id": 38,
+        "productCategory": "水果类",
+        "productName": "丰水梨",
+        "dateOfRelease": "2023/3/9",
+        "max": 12,
+        "average": 11,
+        "units": "元/公斤",
+        "amount": 2000
+      },
+      {
+        "id": 39,
+        "productCategory": "水果类",
+        "productName": "雪梨",
+        "dateOfRelease": "2023/3/9",
+        "max": 8,
+        "average": 7.6,
+        "units": "元/公斤",
+        "amount": 2000
+      },
+      {
+        "id": 40,
+        "productCategory": "水果类",
+        "productName": "鸭梨",
+        "dateOfRelease": "2023/3/9",
+        "max": 8,
+        "average": 7.6,
+        "units": "元/公斤",
+        "amount": 2200
+      },
+      {
+        "id": 41,
+        "productCategory": "水果类",
+        "productName": "水晶梨",
+        "dateOfRelease": "2023/3/9",
+        "max": 8,
+        "average": 7.6,
+        "units": "元/公斤",
+        "amount": 2200
+      },
+      {
+        "id": 42,
+        "productCategory": "水果类",
+        "productName": "雪花梨",
+        "dateOfRelease": "2023/3/9",
+        "max": 8,
+        "average": 7.6,
+        "units": "元/公斤",
+        "amount": 2500
+      },
+      {
+        "id": 43,
+        "productCategory": "水果类",
+        "productName": "蛇果",
+        "dateOfRelease": "2023/3/9",
+        "max": 40,
+        "average": 37,
+        "units": "元/公斤",
+        "amount": 1200
+      },
+      {
+        "id": 44,
+        "productCategory": "水果类",
+        "productName": "姬娜苹果",
+        "dateOfRelease": "2023/3/9",
+        "max": 28,
+        "average": 26,
+        "units": "元/公斤",
+        "amount": 1200
+      },
+      {
+        "id": 45,
+        "productCategory": "水果类",
+        "productName": "花牛苹果",
+        "dateOfRelease": "2023/3/9",
+        "max": 10,
+        "average": 9,
+        "units": "元/公斤",
+        "amount": 1200
+      },
+      {
+        "id": 46,
+        "productCategory": "水果类",
+        "productName": "黄香蕉苹果",
+        "dateOfRelease": "2023/3/9",
+        "max": 12,
+        "average": 10,
+        "units": "元/公斤",
+        "amount": 0
+      },
+      {
+        "id": 47,
+        "productCategory": "水果类",
+        "productName": "红富士苹果",
+        "dateOfRelease": "2023/3/9",
+        "max": 12,
+        "average": 9,
+        "units": "元/公斤",
+        "amount": 5000
+      },
+      {
+        "id": 48,
+        "productCategory": "水产类",
+        "productName": "面包蟹",
+        "dateOfRelease": "2023/3/9",
+        "max": 230,
+        "average": 220,
+        "units": "元/公斤",
+        "amount": 1000
+      },
+      {
+        "id": 49,
+        "productCategory": "水产类",
+        "productName": "石斑",
+        "dateOfRelease": "2023/3/9",
+        "max": 92,
+        "average": 90,
+        "units": "元/公斤",
+        "amount": 1200
+      },
+      {
+        "id": 50,
+        "productCategory": "水产类",
+        "productName": "多宝鱼",
+        "dateOfRelease": "2023/3/9",
+        "max": 70,
+        "average": 66,
+        "units": "元/公斤",
+        "amount": 1500
+      },
+      {
+        "id": 51,
+        "productCategory": "水产类",
+        "productName": "白虾",
+        "dateOfRelease": "2023/3/9",
+        "max": 90,
+        "average": 89,
+        "units": "元/公斤",
+        "amount": 5000
+      },
+      {
+        "id": 52,
+        "productCategory": "水产类",
+        "productName": "花蛤",
+        "dateOfRelease": "2023/3/9",
+        "max": 10,
+        "average": 9.6,
+        "units": "元/公斤",
+        "amount": 280
+      },
+      {
+        "id": 53,
+        "productCategory": "水产类",
+        "productName": "蚕蛹",
+        "dateOfRelease": "2023/3/9",
+        "max": 80,
+        "average": 78,
+        "units": "元/公斤",
+        "amount": 800
+      },
+      {
+        "id": 54,
+        "productCategory": "水产类",
+        "productName": "牛蛙",
+        "dateOfRelease": "2023/3/9",
+        "max": 22,
+        "average": 20,
+        "units": "元/公斤",
+        "amount": 1000
+      },
+      {
+        "id": 55,
+        "productCategory": "水产类",
+        "productName": "养殖甲鱼",
+        "dateOfRelease": "2023/3/9",
+        "max": 82,
+        "average": 66,
+        "units": "元/公斤",
+        "amount": 1200
+      },
+      {
+        "id": 56,
+        "productCategory": "水产类",
+        "productName": "海肠子",
+        "dateOfRelease": "2023/3/9",
+        "max": 60,
+        "average": 59,
+        "units": "元/公斤",
+        "amount": 800
+      },
+      {
+        "id": 57,
+        "productCategory": "水产类",
+        "productName": "海蛎子",
+        "dateOfRelease": "2023/3/9",
+        "max": 26,
+        "average": 25,
+        "units": "元/公斤",
+        "amount": 800
+      },
+      {
+        "id": 58,
+        "productCategory": "水产类",
+        "productName": "毛蚶",
+        "dateOfRelease": "2023/3/9",
+        "max": 20,
+        "average": 19,
+        "units": "元/公斤",
+        "amount": 1000
+      },
+      {
+        "id": 59,
+        "productCategory": "水产类",
+        "productName": "赤贝",
+        "dateOfRelease": "2023/3/9",
+        "max": 50,
+        "average": 48,
+        "units": "元/公斤",
+        "amount": 800
+      },
+      {
+        "id": 60,
+        "productCategory": "水产类",
+        "productName": "青蛤",
+        "dateOfRelease": "2023/3/9",
+        "max": 36,
+        "average": 34,
+        "units": "元/公斤",
+        "amount": 800
+      },
+      {
+        "id": 61,
+        "productCategory": "水产类",
+        "productName": "白蛤",
+        "dateOfRelease": "2023/3/9",
+        "max": 26,
+        "average": 25,
+        "units": "元/公斤",
+        "amount": 1200
+      },
+      {
+        "id": 62,
+        "productCategory": "水产类",
+        "productName": "虎皮蛤",
+        "dateOfRelease": "2023/3/9",
+        "max": 40,
+        "average": 39,
+        "units": "元/公斤",
+        "amount": 1000
+      },
+      {
+        "id": 63,
+        "productCategory": "水产类",
+        "productName": "文蛤",
+        "dateOfRelease": "2023/3/9",
+        "max": 26,
+        "average": 25,
+        "units": "元/公斤",
+        "amount": 1600
+      },
+      {
+        "id": 64,
+        "productCategory": "水产类",
+        "productName": "大带子",
+        "dateOfRelease": "2023/3/9",
+        "max": 44,
+        "average": 42,
+        "units": "元/公斤",
+        "amount": 1200
+      },
+      {
+        "id": 65,
+        "productCategory": "水产类",
+        "productName": "海瓜子",
+        "dateOfRelease": "2023/3/9",
+        "max": 24,
+        "average": 23,
+        "units": "元/公斤",
+        "amount": 800
+      },
+      {
+        "id": 66,
+        "productCategory": "水产类",
+        "productName": "小蛏子",
+        "dateOfRelease": "2023/3/9",
+        "max": 28,
+        "average": 27,
+        "units": "元/公斤",
+        "amount": 1300
+      },
+      {
+        "id": 67,
+        "productCategory": "水产类",
+        "productName": "大蛏子",
+        "dateOfRelease": "2023/3/9",
+        "max": 36,
+        "average": 34,
+        "units": "元/公斤",
+        "amount": 1500
+      },
+      {
+        "id": 68,
+        "productCategory": "水产类",
+        "productName": "大海螺",
+        "dateOfRelease": "2023/3/9",
+        "max": 90,
+        "average": 89,
+        "units": "元/公斤",
+        "amount": 600
+      },
+      {
+        "id": 69,
+        "productCategory": "水产类",
+        "productName": "钉螺",
+        "dateOfRelease": "2023/3/9",
+        "max": 16,
+        "average": 15,
+        "units": "元/公斤",
+        "amount": 500
+      },
+      {
+        "id": 70,
+        "productCategory": "水产类",
+        "productName": "角螺",
+        "dateOfRelease": "2023/3/9",
+        "max": 110,
+        "average": 108,
+        "units": "元/公斤",
+        "amount": 700
+      }
+    
+  ],
+  "pageTotal": 70
+}

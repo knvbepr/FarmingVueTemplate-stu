@@ -1,0 +1,233 @@
+[
+	"list": [
+  {
+    "CostInfo": "费用支出汇总",
+    "value": "-",
+    "attr3": "-",
+    "attr4": "-"
+  },
+  {
+    "CostInfo": "-",
+    "value": "-",
+    "attr3": "-",
+    "attr4": "-"
+  },
+  {
+    "CostInfo": "ID",
+    "value": "支出种类",
+    "attr3": "产品名称",
+    "attr4": "支出"
+  },
+  {
+    "CostInfo": "-",
+    "value": "-",
+    "attr3": "-",
+    "attr4": "-"
+  },
+  {
+    "CostInfo": "id",
+    "value": "type",
+    "attr3": "name",
+    "attr4": "cost"
+  },
+  {
+    "CostInfo": 1,
+    "value": "农药",
+    "attr3": "扑草净",
+    "attr4": 3.7
+  },
+  {
+    "CostInfo": 2,
+    "value": "农药",
+    "attr3": "二甲戊灵",
+    "attr4": 10
+  },
+  {
+    "CostInfo": 3,
+    "value": "农药",
+    "attr3": "百草枯",
+    "attr4": 15
+  },
+  {
+    "CostInfo": 4,
+    "value": "农药",
+    "attr3": "精喹禾灵",
+    "attr4": 12
+  },
+  {
+    "CostInfo": 5,
+    "value": "农药",
+    "attr3": "2甲4氯",
+    "attr4": 14.3
+  },
+  {
+    "CostInfo": 6,
+    "value": "农药",
+    "attr3": "咪唑乙烟酸",
+    "attr4": 15
+  },
+  {
+    "CostInfo": 7,
+    "value": "农药",
+    "attr3": "氟磺胺草醚",
+    "attr4": 17
+  },
+  {
+    "CostInfo": 8,
+    "value": "农药",
+    "attr3": "异恶草松",
+    "attr4": 13
+  },
+  {
+    "CostInfo": 9,
+    "value": "化肥",
+    "attr3": "氮肥",
+    "attr4": 15
+  },
+  {
+    "CostInfo": 10,
+    "value": "化肥",
+    "attr3": "磷肥",
+    "attr4": 20
+  },
+  {
+    "CostInfo": 11,
+    "value": "化肥",
+    "attr3": "钾肥",
+    "attr4": 25
+  },
+  {
+    "CostInfo": 12,
+    "value": "化肥",
+    "attr3": "微肥",
+    "attr4": 26
+  },
+  {
+    "CostInfo": 13,
+    "value": "化肥",
+    "attr3": "复合肥料",
+    "attr4": 14
+  },
+  {
+    "CostInfo": 14,
+    "value": "技术研发",
+    "attr3": "智能灌溉",
+    "attr4": 20
+  },
+  {
+    "CostInfo": 15,
+    "value": "技术研发",
+    "attr3": "智能化育种",
+    "attr4": 22
+  },
+  {
+    "CostInfo": 16,
+    "value": "技术研发",
+    "attr3": "智能化施肥",
+    "attr4": 28
+  },
+  {
+    "CostInfo": 17,
+    "value": "技术研发",
+    "attr3": "智能化养殖",
+    "attr4": 32
+  },
+  {
+    "CostInfo": 18,
+    "value": "技术研发",
+    "attr3": "智能化采摘",
+    "attr4": 26
+  },
+  {
+    "CostInfo": 19,
+    "value": "技术研发",
+    "attr3": "精准施肥",
+    "attr4": 20
+  },
+  {
+    "CostInfo": 20,
+    "value": "技术研发",
+    "attr3": "精准灌溉",
+    "attr4": 18
+  },
+  {
+    "CostInfo": 21,
+    "value": "技术研发",
+    "attr3": "精准农药",
+    "attr4": 10
+  },
+  {
+    "CostInfo": 22,
+    "value": "技术研发",
+    "attr3": "精准播种",
+    "attr4": 24
+  },
+  {
+    "CostInfo": 23,
+    "value": "种子",
+    "attr3": "有胚乳种子",
+    "attr4": 50
+  },
+  {
+    "CostInfo": 24,
+    "value": "种子",
+    "attr3": "无胚乳种子",
+    "attr4": 80
+  },
+  {
+    "CostInfo": 25,
+    "value": "种子",
+    "attr3": "人工种子",
+    "attr4": 70
+  },
+  {
+    "CostInfo": 26,
+    "value": "人工成本",
+    "attr3": "翻耕用工",
+    "attr4": 55
+  },
+  {
+    "CostInfo": 27,
+    "value": "人工成本",
+    "attr3": "施肥用工",
+    "attr4": 67
+  },
+  {
+    "CostInfo": 28,
+    "value": "人工成本",
+    "attr3": "排灌用工",
+    "attr4": 87
+  },
+  {
+    "CostInfo": 29,
+    "value": "人工成本",
+    "attr3": "田间管理用工",
+    "attr4": 45
+  },
+  {
+    "CostInfo": 30,
+    "value": "人工成本",
+    "attr3": "收获用工",
+    "attr4": 23
+  },
+  {
+    "CostInfo": 31,
+    "value": "人工成本",
+    "attr3": "积肥用工",
+    "attr4": 32
+  },
+  {
+    "CostInfo": 32,
+    "value": "人工成本",
+    "attr3": "农田基本建设用工",
+    "attr4": 35
+  },
+  {
+    "CostInfo": 33,
+    "value": "人工成本",
+    "attr3": "经营管理用工",
+    "attr4": 56
+  }
+],
+ "pageTotal": 33
+}
