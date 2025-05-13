@@ -67,6 +67,19 @@
 							index:'priceSummary',
 							title:'农资产品市场价格'
 						}]
+					},					
+					{
+						icon: 'el-icon-school',
+						index: 'map',
+						title: '收支情况',
+						subs: [{
+							index: 'costInfo',
+							title: '费用支出',
+							subs:[{
+								index:'costInfo',
+								title:'费用支出数据'
+							}]
+						}]
 					}
 					
 				]
