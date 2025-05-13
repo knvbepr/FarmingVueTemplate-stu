@@ -78,6 +78,9 @@
 							subs:[{
 								index:'costInfo',
 								title:'费用支出数据'
+							},{
+								index:'costSummary',
+								title:'费用支出汇总'
 							}]
 						}]
 					}

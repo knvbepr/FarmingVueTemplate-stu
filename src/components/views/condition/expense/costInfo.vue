@@ -197,7 +197,7 @@
 				this.delList = this.delList.concat(this.multipleSelection);
 
 				for (let i = 0; i < length; i++) {
-					str += this.multipleSelection[i].productName + ' ';
+					str += this.multipleSelection[i].attr3 + ' ';
 				}
 
 				this.$confirm(`确定要删除 ${str} 吗？`, '提示', {

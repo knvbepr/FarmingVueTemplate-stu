@@ -53,6 +53,10 @@ export default new Router({
                     path: '/costInfo',
                     component: () => import(/* webpackChunkName: "costInfo" */ '../components/views/condition/expense/costInfo.vue'),
                     meta: { title: '费用支出数据' }
+                },{
+                    path: '/costSummary',
+                    component: () => import(/* webpackChunkName: "costSummary" */ '../components/views/condition/expense/costSummary.vue'),
+                    meta: { title: '费用支出汇总' }
                 }
             ]
         },
