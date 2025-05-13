@@ -62,6 +62,10 @@
 					<div slot="header" class="clearfix">
 						今年新生报到简报 / 合作单位一览
 					</div>
+					<div style="display: inline-block; width: 30%; position: relative; left: -10%;">
+						<!-- 图表 -->
+						 <eCost class="etable"></eCost>
+					</div>
 				</el-card>
 			</el-col>
 		</el-row>
@@ -82,7 +86,8 @@
 
 <script>
 	import bus from '../common/bus';
-	
+import eCost from '../views/eTables/eCostSummary.vue';
+
 	export default {
 		name: 'dashboard',
 		data() {
@@ -91,7 +96,7 @@
 			};
 		},
 		components: {
-
+			eCost
 		},
 		computed: {
 			role() {
