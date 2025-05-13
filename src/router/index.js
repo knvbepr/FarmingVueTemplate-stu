@@ -44,11 +44,11 @@ export default new Router({
                 },{
                     path:"/marketDistribution",
                     component:()=>import(/*webpackChunkName:"marketDistribution"*/'../components/views/base/marketDistribution.vue'),
-                    meta:{title:'技术资源'}
+                    meta:{title:'市场分布'}
                 },{
                     path:"/priceSummary",
                     component:()=>import(/*webpackChunkName:"priceSummary"*/'../components/views/base/priceSummary.vue'),
-                    meta:{title:'技术资源'}
+                    meta:{title:'农资产品市场价格'}
                 },{
                     path: '/costInfo',
                     component: () => import(/* webpackChunkName: "costInfo" */ '../components/views/condition/expense/costInfo.vue'),
