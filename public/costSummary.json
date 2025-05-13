@@ -1,0 +1,28 @@
+[
+    {
+      "name": "农药",
+      "value": 100,
+      "proportion": "10%"
+    },
+    {
+      "name": "化肥",
+      "value": 100,
+      "proportion": "10%"
+    },
+    {
+      "name": "技术研发",
+      "value": 200,
+      "proportion": "20%"
+    },
+    {
+      "name": "种子",
+      "value": 200,
+      "proportion": "20%"
+    },
+    {
+      "name": "人工成本",
+      "value": 400,
+      "proportion": "40%"
+    }
+  ]
+  
