@@ -83,6 +83,14 @@
 								title:'费用支出汇总'
 							}]
 						}]
+					},{
+						icon: 'el-icon-files',
+						index: 'training',
+						title: '技术培训',
+						subs: [{
+							index:'trainingInfo',
+							title:'农户技术培训数据'
+						}]
 					}
 					
 				]

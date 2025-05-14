@@ -1,0 +1,50 @@
+[
+    {
+        "month": "1月",
+        "numberOfFarmers": 23
+    },
+    {
+        "month": "2月",
+        "numberOfFarmers": 12
+    },
+    {
+        "month": "3月",
+        "numberOfFarmers": 35
+    },
+    {
+        "month": "4月",
+        "numberOfFarmers": 21
+    },
+    {
+        "month": "5月",
+        "numberOfFarmers": 45
+    },
+    {
+        "month": "6月",
+        "numberOfFarmers": 52
+    },
+    {
+        "month": "7月",
+        "numberOfFarmers": 82
+    },
+    {
+        "month": "8月",
+        "numberOfFarmers": 107
+    },
+    {
+        "month": "9月",
+        "numberOfFarmers": 97
+    },
+    {
+        "month": "10月",
+        "numberOfFarmers": 20
+    },
+    {
+        "month": "11月",
+        "numberOfFarmers": 15
+    },
+    {
+        "month": "12月",
+        "numberOfFarmers": 33
+    }
+]
